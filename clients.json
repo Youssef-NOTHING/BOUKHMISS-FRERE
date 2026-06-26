@@ -1,7 +1,16 @@
 {
   "app": "BOUKHMISS FRERES SARL AU",
   "description": "Base de données clients privée — ne pas partager",
-  "last_updated": "",
-  "total_clients": 0,
-  "clients": []
+  "last_updated": "2026-06-26T21:39:22.152Z",
+  "total_clients": 1,
+  "clients": [
+    {
+      "name": "GAMMING",
+      "id": "youssefboukhmiss44@gmail.com",
+      "pw": "youssef123",
+      "service": "conseil",
+      "date": "26/06/2026",
+      "registered_at": "2026-06-26T21:39:22.152Z"
+    }
+  ]
 }
